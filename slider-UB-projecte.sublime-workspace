@@ -1,0 +1,321 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"scr",
+				"scroll"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"lang",
+				"lang_menu"
+			],
+			[
+				"div",
+				"div	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 87447,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/sliderUB.jquery.js",
+			"settings":
+			{
+				"buffer_size": 1861,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Marcel Safont/Desktop/projectes/sliderUB plugin/index.html",
+		"/M/entornsweb/plantilles/plantilla_tres_columnes_pestanyes_bis.html",
+		"/M/entornsweb/plantilles/plantilla_generica_tabuladors.html",
+		"/M/entornsweb/plantilles/css/styles-ub.css",
+		"/M/entornsweb/plantilles/js/jquery.tabs.js",
+		"/M/entornsweb/plantilles/js/jquery.contreureCaixa.js",
+		"/C/Users/Marcel Safont/Desktop/projectes/plantilla_html5/plantilla1.html",
+		"/C/Users/Marcel Safont/Desktop/projectes/plantilla_html5/css/styles_ub.css",
+		"/C/Users/Marcel Safont/Desktop/projectes/plantilla_html5/js/functions_init.js",
+		"/C/Users/Marcel Safont/Desktop/projectes/nou_banner_v_online/banner_anunci_prova3/index.htm",
+		"/C/Users/Marcel Safont/Desktop/prova recerca/index_marcel.html",
+		"/C/Users/Marcel Safont/Desktop/projectes/nou_banner_v_online/index.htm",
+		"/C/Users/Marcel Safont/Desktop/projectes/plantilla_html5/js/menuSlide.js",
+		"/C/Users/Marcel Safont/Desktop/projectes/plantilla_html5/js/functions_init",
+		"/C/Users/Marcel Safont/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/Users/Marcel Safont/Desktop/institucional svn/vfs/system/modules/edu.ub.presentation/resources/css/general.css",
+		"/C/Users/Marcel Safont/Desktop/info.php",
+		"/C/xampp/htdocs/xarxes_socials_face/index.php",
+		"/C/xampp/htdocs/xarxes_socials_face/css/estilos.css",
+		"/C/Users/Marcel Safont/Desktop/prova.html",
+		"/M/entornsweb/plantilles/plantilla_generica_amb_enllac_popup.html",
+		"/M/entornsweb/plantilla_grup_recerca/research.html",
+		"/M/entornsweb/plantilla_grup_recerca/colorbox/colorbox/jquery.colorbox.js",
+		"/M/entornsweb/plantilla_grup_recerca/js/funcions_init.js",
+		"/C/Users/Marcel Safont/Desktop/html/marxandatge_UB_2idiomes.html",
+		"/C/Users/Marcel Safont/Desktop/modificacions per al miguel/peu pagina institucional/523_patch_moduls_css.txt",
+		"/C/Users/Marcel Safont/Desktop/projectes/institucuional modificacio peu 14-12-2012/Universitat de Barcelona - Home.htm",
+		"/C/Users/Marcel Safont/Desktop/institucional svn/vfs/system/modules/edu.ub.presentation/resources/css/moduls.css",
+		"/M/entornsweb/centre_patents/newsletter/newsletter.html",
+		"/C/xampp/htdocs/respositori/sites/all/themes/ub/css/styles-ub.css",
+		"/C/Users/Marcel Safont/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Marcel Safont/Desktop/json twiiter/parser.js",
+		"/C/Users/Marcel Safont/Desktop/json twiiter/index.html",
+		"/C/Users/Marcel Safont/Desktop/json twiiter/twitter.json",
+		"/C/Users/Marcel Safont/Desktop/json twiiter/jquery.js",
+		"/C/Users/Marcel Safont/Desktop/twitter.json",
+		"/C/Users/Marcel Safont/AppData/Roaming/Sublime Text 2/Packages/Pretty JSON/Pretty JSON.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"item",
+			"slider",
+			"header",
+			"#boto",
+			"#idiomes",
+			"bg_gris",
+			"info",
+			"img",
+			"();\n",
+			"border-radius",
+			"arrow",
+			"menu",
+			"color",
+			".jpg",
+			"top02",
+			"twitter_user",
+			"results",
+			"entities",
+			"name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 87447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1844,
+								1844
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 450.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/sliderUB.jquery.js",
+					"settings":
+					{
+						"buffer_size": 1861,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1123,
+								1123
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 104.0,
+	"status_bar_visible": true
+}
